@@ -2,6 +2,13 @@
 
 Approaches such as recommendations and transaction linking to identify commonly purchased items play a crucial role in the online retail industry. Not only do they enhance the consumer experience, but they also contribute to increased revenue. This project focuses on exploring and comparing collaborative and content-based filtering techniques for recommender systems in the online retail domain.
 
+- [Introdução aos Sistemas de Recomendação - The Algorithm](https://www.districtdatalabs.com/the-algorithm-issue-1-recommender-system-intro)
+
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/55fdfa38e4b07a55be8680a4/1615840813472-26IN4U697Y0WN6YSR7NU/recommender_systems.png?format=2500w" width="90%" alt="Descrição da imagem">
+</p>
+<p align="center" style="font-size: 12px;">Image Source: THE ALGORITHM - RECOMMENDER SYSTEMS INTRO by District Data Labs, available at <a href="https://www.districtdatalabs.com/the-algorithm-issue-1-recommender-system-intro">District Data Labs Article</a></p>
+
 ## Dataset
 
 The project utilizes the "Book Recommendation Datasets" available on Kaggle https://www.kaggle.com/datasets/saurabhbagchi/books-dataset These datasets contain valuable information about book recommendations, including user-read books, user-supplied reviews, and information about users who bought them. The datasets have been merged to leverage all available features in the recommendation functions. Dataset files are also uploaded here in the repository.
