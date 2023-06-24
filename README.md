@@ -17,6 +17,11 @@ The project utilizes the "Book Recommendation Datasets" available on Kaggle http
 
 The file "Machine Learning Recommender Systems for Online Retail Business" discusses the importance of recommender systems in the modern business environment, with a specific focus on online retail. Recommender systems play a crucial role in enhancing the user experience and increasing revenue by providing personalized suggestions to customers. The file also discusses two primary filtering methods used in recommender systems: content-based filtering and collaborative filtering. Content-based filtering focuses on analyzing the characteristics and attributes of items, while collaborative filtering leverages user behavior and preferences to make recommendations. Hybrid methods that combine both approaches are also addressed.
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*rCK9VjrPgpHUvSNYw7qcuQ@2x.png" width="90%" alt="Descrição da imagem">
+</p>
+<p align="center" style="font-size: 12px;">Image Source: Summary of the different types of recommender systems algorithms by Baptiste Rocca, available at <a href="https://medium.com/towards-data-science/introduction-to-recommender-systems-6c66cf15ada">Introduction to recommender systems</a></p>
+
 ## Project Workflow
 
 The project "Exploring Recommendation Systems - Enhancing Online Retail Experience and Boosting Revenues" follows the following workflow:
