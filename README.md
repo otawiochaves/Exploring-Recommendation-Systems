@@ -40,7 +40,7 @@ The repository contains the following files:
 
 1. **Dataset Books**: This folder contains the datasets used in the project.
 
-2. **Exploring Recommendation Systems - Enhancing Online Retail Experience and Boosting Revenues.ipynb**: Jupyter Notebook with the implementation of the content-based filtering approach.
+2. **Content Filtering Implementation.ipynb**: Jupyter Notebook with the implementation of the content-based filtering approach.
 
 3. **Machine Learning Recommender Systems for Online Retail Business.ipynb**: A document discussing the importance of recommender systems in the online retail industry.
 
