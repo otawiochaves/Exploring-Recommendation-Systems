@@ -26,7 +26,7 @@ The file "Machine Learning Recommender Systems for Online Retail Business" discu
 
 The project "Exploring Recommendation Systems - Enhancing Online Retail Experience and Boosting Revenues" follows the following workflow:
 
-1. Exploratory Data Analysis (EDA) and data visualization were performed to gain insights and prepare the data for the recommendation functions.
+1. Exploratory Data Analysis (eda_report.html) and data visualization were performed to gain insights and prepare the data for the recommendation functions.
 
 ![Top 10 Most Rated Books and Their Countries](Project%20Views/Top%2010%20Most%20Rated%20Books%20and%20Their%20Countries.png)
 
