@@ -28,6 +28,10 @@ The project "Exploring Recommendation Systems - Enhancing Online Retail Experien
 
 1. Exploratory Data Analysis (EDA) and data visualization were performed to gain insights and prepare the data for the recommendation functions.
 
+![Top 10 Most Rated Books and Their Countries](Project%20Views/Top%2010%20Most%20Rated%20Books%20and%20Their%20Countries.png)
+
+![Top 10 Most Rated Books by Author and Their Countries](Project%20Views/Top%2010%20Most%20Rated%20Books%20by%20Author%20and%20Their%20Countries.png)
+
 2. Text preprocessing and cleaning steps were applied to ensure high-quality data for analysis.
 
 3. Content-based filtering was implemented using techniques such as CountVectorizer, TfidfVectorizer, and Cosine Similarity. This approach recommends books based on their textual similarities to the user's preferences.
